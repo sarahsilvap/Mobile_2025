@@ -15,6 +15,4 @@ void main(){
   salario_bruto = salario - desconto + bonificacao;
 
   print('Seu salário bruto é de: $salario_bruto');
-
-
 }
