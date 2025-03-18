@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void exibirMensagem (String mensagem, [String remetente = 'Anônimo']){
   print('Mensagem de $remetente: $mensagem');

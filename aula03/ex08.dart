@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main(){
   int resultado = soma(5, 8);
